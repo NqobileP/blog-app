@@ -1,0 +1,5 @@
+cd /workspaces/blog-app
+rm -rf .git         
+git init       
+git add .            
+git commit -m "Final submission for Coursera"
